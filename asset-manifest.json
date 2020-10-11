@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pokemone-card/static/css/main.bdc6deb3.chunk.css",
+    "main.js": "/pokemone-card/static/js/main.08e08fac.chunk.js",
+    "main.js.map": "/pokemone-card/static/js/main.08e08fac.chunk.js.map",
+    "runtime-main.js": "/pokemone-card/static/js/runtime-main.7a1871c6.js",
+    "runtime-main.js.map": "/pokemone-card/static/js/runtime-main.7a1871c6.js.map",
+    "static/js/2.89288cbb.chunk.js": "/pokemone-card/static/js/2.89288cbb.chunk.js",
+    "static/js/2.89288cbb.chunk.js.map": "/pokemone-card/static/js/2.89288cbb.chunk.js.map",
+    "index.html": "/pokemone-card/index.html",
+    "precache-manifest.ca92f7cd422da430b8477224446c0b8e.js": "/pokemone-card/precache-manifest.ca92f7cd422da430b8477224446c0b8e.js",
+    "service-worker.js": "/pokemone-card/service-worker.js",
+    "static/css/main.bdc6deb3.chunk.css.map": "/pokemone-card/static/css/main.bdc6deb3.chunk.css.map",
+    "static/js/2.89288cbb.chunk.js.LICENSE.txt": "/pokemone-card/static/js/2.89288cbb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a1871c6.js",
+    "static/js/2.89288cbb.chunk.js",
+    "static/css/main.bdc6deb3.chunk.css",
+    "static/js/main.08e08fac.chunk.js"
+  ]
+}
